@@ -21,6 +21,7 @@ public class BaseTest extends BaseClass {
 		// driver.get("https://www.tsrtconline.in/oprs-web/");
 		driver.get(urlName);
 		System.out.println(urlName);
+		System.out.println("urlName");
 	}
 	
 	@Test
